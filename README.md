@@ -4,20 +4,20 @@
 The repository code is contains components like app architecture, app theme, and required dependencies. 
 
 # *Libraries & Tools Used*
--http
--Dart convert
--Dart async
+1. http
+2. Dart convert
+3. Dart async
 
 # *Folder Structure*
 -lib
- -models
-  -recipe.api.dart..dart
-  -recipe.dart
--views
- -widgets
-   -recipe_card.dart
- -home.dart
-main.dart
+ 1. models
+  1. recipe.api.dart..dart
+  2. recipe.dart
+1. views
+ 1. widgets
+   1.recipe_card.dart
+ 2. home.dart
+3. main.dart
 
 
 # *Main*
