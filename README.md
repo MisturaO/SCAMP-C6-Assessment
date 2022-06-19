@@ -9,7 +9,7 @@ The repository code is contains components like app architecture, app theme, and
 3. Dart async
 
 # *Folder Structure*
--lib
+lib
   -models
   1. recipe.api.dart..dart
   2. recipe.dart
