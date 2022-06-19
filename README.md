@@ -1,26 +1,26 @@
 # SCAMP-C6-Assessment
-Recipe List App
-Getting Started
+## *Recipe List App*
+# *Getting Started*
 The repository code is contains components like app architecture, app theme, and required dependencies. 
 
-Libraries & Tools Used
-http
-Dart convert
-Dart async
+# *Libraries & Tools Used*
+-http
+-Dart convert
+-Dart async
 
-Folder Structure
-lib
-models
- -recipe.api.dart..dart
- -recipe.dart
-views
+# *Folder Structure*
+-lib
+ -models
+  -recipe.api.dart..dart
+  -recipe.dart
+-views
  -widgets
    -recipe_card.dart
  -home.dart
 main.dart
 
 
-Main
+# *Main*
 This is the starting point of the application.
 
  ```dart
@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
 }
  ```
  
- Recipe_card
+ # *Recipe_card*
  This folder contains the application UI.
 
 ```dart
@@ -168,5 +168,7 @@ class RecipeCard extends StatelessWidget {
 
 
 
+# *Kindly Note*
+I would like to inform you that the website associated with the API key link can't be reached.
 
 
