@@ -10,14 +10,14 @@ The repository code is contains components like app architecture, app theme, and
 
 # *Folder Structure*
 -lib
- 1. models
+  -models
   1. recipe.api.dart..dart
   2. recipe.dart
-1. views
+ - views
  1. widgets
    1.recipe_card.dart
- 2. home.dart
-3. main.dart
+ - home.dart
+- main.dart
 
 
 # *Main*
