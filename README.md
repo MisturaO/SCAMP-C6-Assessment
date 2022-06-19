@@ -1,7 +1,5 @@
 # recipee_list
 
-# SCAMP-C6-Assessment
-## Recipe List App
 # Getting Started
 The repository code is contains components like app architecture, app theme, and required dependencies. 
 
