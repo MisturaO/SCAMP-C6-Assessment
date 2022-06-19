@@ -14,7 +14,7 @@ The repository code is contains components like app architecture, app theme, and
   1. recipe.api.dart..dart
   2. recipe.dart
  - views
- 1. widgets
+ - widgets
    1.recipe_card.dart
  - home.dart
 - main.dart
